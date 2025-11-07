@@ -17,11 +17,11 @@ El objetivo es practicar el **flujo de trabajo colaborativo con Git y GitHub**, 
 
 ### **Contreras López, Pablo**  
 - Responsable del **diseño visual y CSS avanzado**  
-- *(Añadirá su sección en la siguiente fase)*  
+- Añade su sección personal en la Fase 2  
 
 ### **Moreno Villegas, Iván**  
 - Responsable de **documentación y control de calidad**  
-- *(Añadirá su sección en la siguiente fase)*  
+- Añade su sección personal en la Fase 3  
 
 ---
 
@@ -41,44 +41,44 @@ miniweb-equipo-LosTresGitadores/
 ├── style.css # Estilos CSS personalizados
 ├── images/ # Carpeta de imágenes
 │ └── erik.jpg # Foto de David Erik
+│ └── pablo.jpg # Foto de Pablo
+│ └── ivan.jpg # Foto de Iván
 └── README.md # Este archivo
-
 
 ---
 
 ## 🚀 Flujo de Trabajo Colaborativo  
 
-### **Fase 1: ✅ David (Coordinador)**  
-- Crea el repositorio  
-- Añade estructura base + su sección personal  
-- Sube a la rama `main`  
+### ✅ Fase 1: David (Coordinador)
+1. Crea el repositorio  
+2. Añade estructura base + su sección personal  
+3. Sube a la rama `main`  
 
-### **Fase 2: ⏳ Pablo**  
-- Clona el repositorio  
-- Crea rama `seccion-pablo`  
-- Añade su sección personal  
-- Crea *Pull Request*  
-- David revisa y aprueba  
+### ✅ Fase 2: Pablo
+1. Clona el repositorio  
+2. Crea rama `seccion-pablo`  
+3. Añade su sección personal  
+4. Crea Pull Request  
+5. David revisa y aprueba  
 
-### **Fase 3: ⏳ Iván**  
-- Actualiza su repositorio local  
-- Crea rama `seccion-ivan`  
-- Añade su sección personal  
-- Crea *Pull Request*  
-- David revisa y aprueba  
+### ✅ Fase 3: Iván
+1. Actualiza su repositorio local  
+2. Crea rama `seccion-ivan`  
+3. Añade su sección personal  
+4. Crea Pull Request  
+5. David revisa y aprueba  
 
-### **Fase 4: ⏳ David (Final)**  
-- Añade **imagen grupal del equipo**  
-- Actualiza el **README** con estadísticas finales  
+### ⏳ Fase 4: David (Final)
+1. Añade imagen grupal del equipo  
+2. Actualiza el README con estadísticas finales  
 
 ---
 
 ## 📝 Estado Actual del Proyecto  
 
-| Fase | Descripción | Estado |
-|------|--------------|--------|
-| 1 | Estructura base + sección de David | ✅ Completada |
-| 2 | Sección de Pablo | ⏳ Pendiente |
-| 3 | Sección de Iván | ⏳ Pendiente |
-| 4 | Imagen grupal y actualización final | ⏳ Pendiente |
-
+| Fase | Descripción                              | Estado       |
+|------|-------------------------------------------|--------------|
+| 1    | Estructura base + sección de David        | ✅ Completada |
+| 2    | Sección de Pablo                          | ✅ Completada |
+| 3    | Sección de Iván                           | ✅ Completada |
+| 4    | Imagen grupal y actualización final       | ⏳ Pendiente |

@@ -46,15 +46,6 @@ El objetivo es practicar buenas prácticas de desarrollo colaborativo y control 
 
 ---
 
-## 📸 Foto del Equipo
-
-<figure>
-  <img src="./images/team.png" alt="Equipo Los Tres Gitadores" width="640">
-  <figcaption align="center"><i>Los Tres Gitadores</i></figcaption>
-</figure>
-
----
-
 ## 🛠️ Tecnologías Utilizadas
 
 * **HTML5** · Estructura semántica

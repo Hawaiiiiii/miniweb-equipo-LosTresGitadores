@@ -55,6 +55,7 @@ miniweb-equipo-LosTresGitadores/
 2. Añade estructura base + su sección personal
 3. Sube a `main`
 
+<<<<<<< Updated upstream
 ### Fase 2: ⏳ Pablo
 1. Clona el repositorio
 2. Crea rama `seccion-pablo`
@@ -72,15 +73,43 @@ miniweb-equipo-LosTresGitadores/
 ### Fase 4: ⏳ David (Final)
 1. Añade imagen grupal del equipo
 2. Actualiza README con estadísticas finales
+=======
+### **Fase 2: ✅ Pablo**  
+- Clona el repositorio  
+- Crea rama `seccion-pablo`  
+- Añade su sección personal  
+- Crea *Pull Request*  
+- David revisa y aprueba  
+
+### **Fase 3: ✅ Iván**  
+- Actualiza su repositorio local  
+- Crea rama `seccion-ivan`  
+- Añade su sección personal  
+- Crea *Pull Request*  
+- David revisa y aprueba  
+
+### **Fase 4: ✅ David (Final)**  
+- Añade **imagen grupal del equipo**  
+- Actualiza el **README** con estadísticas finales  
+>>>>>>> Stashed changes
 
 ---
 
 ## 📝 Estado Actual del Proyecto
 
+<<<<<<< Updated upstream
 - ✅ **Fase 1 completada**: Estructura base + sección de David
 - ⏳ **Fase 2 pendiente**: Sección de Pablo
 - ⏳ **Fase 3 pendiente**: Sección de Iván
 - ⏳ **Fase 4 pendiente**: Imagen grupal final
+=======
+| Fase | Descripción | Estado |
+|------|--------------|--------|
+| 1 | Estructura base + sección de David | ✅ Completada |
+| 2 | Sección de Pablo | ✅ Completada |
+| 3 | Sección de Iván | ✅ Completada |
+| 4 | Imagen grupal y actualización final | ✅ Completada |
+>>>>>>> Stashed changes
 
 ---
 
